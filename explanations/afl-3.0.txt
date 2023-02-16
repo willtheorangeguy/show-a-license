@@ -1,0 +1,44 @@
+"Preamble"
+The Preamble is a brief introduction to the license that explains the motivation behind it and its general purpose.
+
+"Licensor"
+The term "Licensor" refers to the person or organization that holds the copyright to the software and is licensing it under the AFL.
+
+"Software"
+The term "Software" refers to the original work of authorship that is being licensed under the AFL.
+
+"Agreement"
+The "Agreement" is the document that defines the terms and conditions of the AFL.
+
+"Grant of Copyright License"
+This section grants a copyright license to anyone who wants to use, copy, modify, or distribute the software. It allows anyone to use the software without any restrictions, as long as they comply with the terms of the AFL.
+
+"Grant of Patent License"
+This section grants a patent license to anyone who wants to use the software. This ensures that any patents related to the software are not used to restrict its use or distribution.
+
+"Redistribution"
+This section specifies the conditions under which the software can be redistributed. The license requires that the original copyright notice and disclaimer must be included with any copies of the software.
+
+"Modifications"
+This section outlines the conditions under which the software can be modified. It requires that any modifications be clearly identified as such and that they are subject to the same AFL terms as the original software.
+
+"Binary Distributions"
+This section allows for the distribution of compiled or binary versions of the software, as long as they comply with the terms of the AFL.
+
+"Contributions"
+This section defines the terms under which contributions to the software can be made. It requires that any contributions be accompanied by a Contributor License Agreement that grants the copyright to the Licensor.
+
+"Trademarks"
+This section prohibits the use of any trademarks associated with the software without the Licensor's permission.
+
+"Disclaimer of Warranty"
+This section disclaims any warranties associated with the software and limits the Licensor's liability for any damages caused by the software.
+
+"Limitation of Liability"
+This section further limits the Licensor's liability for any damages caused by the software.
+
+"Termination"
+This section specifies the conditions under which the license can be terminated, such as if the licensee fails to comply with the terms of the AFL.
+
+"Miscellaneous"
+This section includes various miscellaneous provisions, such as the choice of law and jurisdiction governing the license, and the fact that the AFL is not an agreement for sale of the software.

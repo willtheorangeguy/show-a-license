@@ -7,9 +7,6 @@ name = "docker"
 name = "secrets"
 
 [[analyzers]]
-name = "test-coverage"
-
-[[analyzers]]
 name = "javascript"
 
   [analyzers.meta]
